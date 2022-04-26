@@ -9,6 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+
     <groupId>com.kursach.forum</groupId>
     <artifactId>forum</artifactId>
     <version>0.0.1-SNAPSHOT</version>
