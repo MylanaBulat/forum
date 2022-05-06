@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="forum" />
+        <module name="main_forum_git" />
         <module name="twitter" />
         <module name="forum 10.09.32 PM" />
       </profile>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="forum" options="-parameters" />
       <module name="forum 10.09.32 PM" options="-parameters" />
+      <module name="main_forum_git" options="-parameters" />
       <module name="twitter" options="-parameters" />
     </option>
   </component>
